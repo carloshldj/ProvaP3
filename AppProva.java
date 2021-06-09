@@ -39,7 +39,7 @@ public class AppProva {
 }
 /*
 Info: O disco Disco Virtual está vazio. Espaço livre 100000Mb
-Erro: o arquivo Os 7 de Chicago já está na pasta Musicas
+Erro: o arquivo Os 7 de Chicago já está na pasta Filmes
 Erro: a pasta Musicas só pode armazenar dois arquivos
 A pasta Provas contém 3 arquivos de um total de 4 possíveis
 Pastas do Disco
